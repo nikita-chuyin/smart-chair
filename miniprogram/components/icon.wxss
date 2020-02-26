@@ -1,0 +1,68 @@
+@font-face {font-family: "iconfont";
+  src: url('//at.alicdn.com/t/font_1513921_v5mvdss45qq.eot?t=1573985063013'); /* IE9 */
+  src: url('//at.alicdn.com/t/font_1513921_v5mvdss45qq.eot?t=1573985063013#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAh8AAsAAAAAD4gAAAgsAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCEYAqPdIxYATYCJAMwCxoABCAFhG0HgSEbBw2jopwSdpH98zA2ph1dQpRcXa5/3Y2Gi8+SKK0N9rfYEyvfUzz8t9//9hm5MvcL5kk0efRoksgkPBLFEqmwSHRae4OU8K+WblOqCuBQN/5LEhlFa6rar3v3ly97s79pmsGjHEohJAjH9N+Zb7PRvA10lxxRQCeU2UKBCqY9+G3rTXlQoRNS8FQjKPFHbpmfD39v071A5ms+O9CAMvr/5px2dJxgQDdnG7tsLOCinDOxTS4w8RTzov4ctxNojvB0bt48vcJYwdRA0HNrEhhHeErOZpiYg6Rredf5Uk3pW7oOfHd+P/5bxpikZnyne8+uczhbDXkXR1vI0/zhY3sSXEuRcRYoV8YvKfsn0OK93dMii/fYY0YPH1aXDTdy6cp7V7W/9e4uw4D58qk7uVgV9oj5UyyNkmRFNRhNZs0CSvv98wZMW8PsD8669cYbkGA1HJJYjYRkeimk0MshlV4BGeiV6Eeu7wVkoldBZrod0ui3IAv9Di6g30WhNtYu+4BzIL0FyGeBV26xVaN5x7FXWtn5IqnWdGTMAibAhAK12TI2lyYwnpfEiy8RCQhMYI5JIJVyBUJugKe3RAJhf5VGwdLhBr1WZ9AqDJXh+lJaoS1WqOMCCdV76Eo8iDKloawRy5Raq2DpcYPOInA6Sbd7mss11eHQhYRO2+V1SYiaT9raWqmWU/SJpulQLZ4KHXQOIbWBguA2GqtUFihvDxWQkVOhuvs0QU2nN2ZhQVwHIGZEzAQERqoxqDabAytOtlGnTmTRnVhQLo5Ua2s6qa4Ig603CtnCsNlcVFxV42kupZSWstrqEtLW5YNRbmKTOs+N6gzX0w5EqgHqyIGAqE14zOSikuraghSqwjVqqoqX7nXEXHQFH3DH2052HJzVPvY9MkhiLX25fa+XcMf+zqt6QmwDgeAGPYL05/mulNaJ6LvUvSHio3fQ7eylbHLboS6vP9roc8A9pmx3Fl4qqrSqrtyjwxlUUX+80Zs06KcXV+eQJ5195+kX7mi7dCEL1cGNmgaqMUJsq8/2RdXKETnl7XCdWu7vhK2qXcXa54yV2q51Hd4QNPFcdLuxxKacVlbpCelSLCBAxbAVl3sYYGkpVisb6DoVGxUrLnSyEIcYR28hLjiDuHO5HbzoWkxccofw9rvi4HlHIHefcxZLJg3GBf1gcyR4lmx3O2FUa1cbsRy9EwRQHd3QkaSe2LnoGg5klyes3pwD9+LzRmQ7HGZ8993BkD5xogmkinpbow9OHCfEebrKIZLFJpjbMo12Y5vhlOGgya5r6dd0D/HTL170u5hxfu00cvAs4WoJ8S4Y6dhtjr0q/cJbQrpGkOKpa+mfYWqrV9TYBpjWQrzh5csGtkAsHt6gojaCIpsbpCApPqcgcZuOkDtIYq2oqFhhklmX4S70SFAEysJlgRGB8nB54KQ3gQHmGLVL4PxxH0F+FRWXGBeXEQf2qMlGcYHldpRmXunKgvlWVOZ+h6jbFkHcnCrNfI3Sdm/+PVXs5vmbVw0vvjtIE68Z1/938ZGQr1NCcFlwZIgckB+Rj9lncuqwjQsX0kOSwUfcrh6mtttfZzmVXLgt5RQwT4bmIa+eieEeZVD6qTX1/vWnNpiDla1gXIHvVDg5dejGRQvpocnYB9yXHKq2v2dX+uskX/PwQ1uXrV1mjxkWkzix9mK6zH1tVSUlI2RwVEqnic8Xsu/TP/GDKKORGrRFR2zEv2288bKhp//QRe9SuanvFg192HPG5RkzwAxLCLbWXeLzJvCZJxeiQVtb8Ua9m50Qu+Zy2IDEAWMvj8V37fnK/DjkOojOkET17zP9ZZR7kD7zBmug5IEkOjr904PPGX12ZQ7WuyaejugZBIJyou4knfOihIsCDnwyI/95G+3jwpPOjgu7sKdneHD0DVmFrDAwIzwjsNB75Li9/D7CxTX/4dILJKz0P/68XFAZUPh8g2iJ36RJd8xwcqPab4l/g3+h0Tr1Rros/VhzY/vHBj6BGfoMNWzJx/bG0nFLtqmjpLMbujew0+GTbUs+NjUeazbJTeXadgCEk5AwscfE+AQP4BEPbULClEQ1D0eqev4fRQuRMxg3SLIjkIBpNFjCKyUfoL3Wjwywqph+jMpqfeXFeAEl4L2yWnlMX4ZnBXI07wavQIJWs8vLT8x8siopMV/pp0n9rH6VKoPsjwAATAd+GI9ypou2O9ny3YJ6AKfcEN6JI4YtucUfXw0bYhfhSIYKXBnKVBV/RqoGfj6+iWvEI7/xiX8p44MfI8NJw/xjctvzXQ0A4ANWlhwD4PzD4ex/TvwnfYjMF7BfeGN3NgCc/Yx90Ug584/txzDsQtjvQX3cnrc1D02wJaEJFVuk2uGvD8bu0viTHWN3AJLRYZBNjk6W2bOgWlwAg8kV0Jxx23uxE+uJMuO0TwWEbb5BsuE3yLb5QYBg9hdUe/yDwbbogeZJnAy5OB52esmYCOYqPSibUaN1oUzd4Gc0myrhMNHZeUdurVEtgnnceYsNchst2q1ZimilmWp1o9wNq4qUY1pjJkEh4lZhqGUtg4xqmLqBoYRYJ3NK6oBpZUhDXy6miZ9/hoyNSoJzsr4x3yHWsldXFgLzEpO3tKZU1rFEtraMJSGJpoxERmrKDUlQJWxEcfJKaygjAkUNi7MSUj5dlhb0z6iPOPGvKwdfby1S5ChRY4gxppijxXK+ClNfUI7VyPJsrBBP8p1ol1LC+TjJJKpQy8T1ZGsK6aerTp2anpFtI2pG6/9cNTYyzmnXVJTkA5dsWjyyjSbDiStsFvkZuQMAAAAA') format('woff2'),
+  url('//at.alicdn.com/t/font_1513921_v5mvdss45qq.woff?t=1573985063013') format('woff'),
+  url('//at.alicdn.com/t/font_1513921_v5mvdss45qq.ttf?t=1573985063013') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('//at.alicdn.com/t/font_1513921_v5mvdss45qq.svg?t=1573985063013#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-model:before {
+  content: "\e637";
+}
+
+.icon-monitor:before {
+  content: "\e63a";
+}
+
+.icon-dateboard:before {
+  content: "\e63c";
+}
+
+.icon-act_left:before {
+  content: "\e796";
+}
+
+.icon-act_right:before {
+  content: "\e798";
+}
+
+.icon-bell:before {
+  content: "\e799";
+}
+
+.icon-bell_is_on:before {
+  content: "\e79a";
+}
+
+.icon-comment:before {
+  content: "\e7a0";
+}
+
+.icon-download:before {
+  content: "\e7a4";
+}
+
+.icon-pause:before {
+  content: "\e7b0";
+}
+
+.icon-infographic_-copy:before {
+  content: "\e7cf";
+}
+
+.icon-infographic_-copy-copy:before {
+  content: "\e7d1";
+}
+
+.icon-pause-copy:before {
+  content: "\e7d2";
+}

@@ -1,0 +1,16 @@
+/* pages/oparate/oparate.wxss */
+.container{
+  padding: 70px;
+  color: white;
+  font-size: 20px;
+}
+.main{
+  margin-top: 55px;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+button{
+  margin-top: 20px;
+  background: orange;
+}

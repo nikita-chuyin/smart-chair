@@ -1,0 +1,10 @@
+<view class="container">
+  <view class="tempratrue">
+    <image src="../../images/tempratrue1.png"></image>
+    <text class="tempText">温度值 : {{tempText}}</text>
+  </view>
+  <view class="liquidLevel">
+    <text class="iconfont icon-infographic_-copy-copy" style="font-size:80px;color:orange"></text>
+    <view class="tempText">液位值 : {{liquidLevel}}</view>
+  </view>
+</view>

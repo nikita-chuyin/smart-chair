@@ -1,0 +1,33 @@
+/* pages/logs/logs.wxss */
+.container{
+  display: block;
+  font-size: 25px;
+}
+.header{
+  display: flex;
+  padding: 15px 5px;
+  justify-content: flex-start;
+  align-items: center;
+  color: gray;
+}
+.header image{
+  width: 70px;
+  height: 70px;
+  margin-left: 3px;
+  border-radius: 50%;
+}
+.content{
+  margin-top: 40px;
+
+}
+.content>button{
+  margin-top: 40px;
+}
+.message{
+  padding: 15px;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-content: center;
+  line-height: 45px;
+}

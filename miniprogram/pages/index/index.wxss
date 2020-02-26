@@ -1,0 +1,24 @@
+.container{
+  height:505px;
+  background-image: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573056252821&di=f8b14b7d9747b1a5fafeafc92c2ef2eb&imgtype=0&src=http%3A%2F%2Fimg.1ppt.com%2Fuploads%2Fallimg%2F1803%2F1_180316140937_1.JPG);
+}
+.tempratrue,.liquidLevel{
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  color: white;
+}
+.container image{
+  width: 100px;
+  height: 150px;
+  padding: 18px 0;
+}
+.tempratrue .tempText{
+  font-size: 20px;
+}
+.liquidLevel view{
+  padding-top: 30px;
+  font-size: 20px;
+}

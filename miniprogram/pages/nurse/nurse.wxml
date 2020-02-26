@@ -1,0 +1,13 @@
+<view class="container">
+  <text>病人信息展板</text>
+  <view class="sub_container">
+    <view class="show_panel" wx-for="{{tempText}}">
+      <view>用户：{{index}}</view>
+      <view>温度：{{item}}</view>
+      <view>液位: {{liquidLevel[index]}}</view>
+    </view>
+  </view>
+  <text>请输入病人openId值</text>
+  <input type="text" />
+  <button type="primary" bindtap="toOperate">操作病人的电机</button>
+</view>

@@ -1,0 +1,15 @@
+<!--pages/logs/logs.wxml-->
+<view class="container">
+  <view class="header">
+    <image src="{{avatarUrl}}"></image>
+    <text>{{nickName}}</text>
+  </view>
+  <view class="content">
+    <button type="default" bindtap="login" open-type="getUserInfo">登录</button>
+    <button type="default" bindtap="getMsg">获取信息</button>
+    <view class="message">
+      <text>温度：{{tempText}}</text>
+      <text>液位：{{liquidLevel}}</text>
+    </view>
+  </view>
+</view>

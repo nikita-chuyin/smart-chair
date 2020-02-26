@@ -1,0 +1,13 @@
+<view class="container" bindtap="loginOrnot">
+   <picker bindchange="bindPickerChange" value="{{index}}" range="{{array}}">
+    <view class="picker">
+      电机选择：{{array[index]}}
+    </view>
+  </picker>
+  <view class="main">
+    <view>电机操作</view>
+    <button bindtap="turnLeft">向左转</button>
+    <button bindtap="turnRight">向右转</button>
+    <button bindtap="off">停止</button>
+    </view>
+</view>

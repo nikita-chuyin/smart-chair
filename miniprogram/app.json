@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    
+    "pages/oparate/oparate",
+    "pages/nurse/nurse"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "智能输液椅",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "images/home.png",
+      "selectedIconPath": "images/ghome.png"
+    },
+    {
+      "pagePath": "pages/oparate/oparate",
+      "text": "操作",
+      "iconPath": "images/oparate.png",
+      "selectedIconPath": "images/goporate.png"
+    },
+    {
+      "pagePath": "pages/logs/logs",
+      "text": "我的",
+      "iconPath": "images/account.png",
+      "selectedIconPath": "images/gaccount.png"
+    }]
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

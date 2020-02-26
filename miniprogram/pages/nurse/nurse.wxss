@@ -1,0 +1,17 @@
+.container{
+  background-image: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573056252821&di=f8b14b7d9747b1a5fafeafc92c2ef2eb&imgtype=0&src=http%3A%2F%2Fimg.1ppt.com%2Fuploads%2Fallimg%2F1803%2F1_180316140937_1.JPG);
+  color: white;
+  padding-top: 5px;
+}
+.sub_container{
+ display: flex;
+  padding: 10px;
+ flex-wrap: wrap;
+}
+.show_panel{
+   display: flex;
+  flex-flow: column wrap;
+  margin:5px;
+  box-shadow: 0 0 2px 2px gray;
+  padding: 10px;
+}
